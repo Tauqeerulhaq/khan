@@ -18,7 +18,7 @@ RewriteRule . /khan/index.php [L]
 # The directives (lines) between "BEGIN Simply Static" and "END Simply Static" are
 # dynamically generated, and should only be modified via WordPress filters.
 # Any changes to the directives between these markers will be overwritten.
-<Files "D:\xamp\htdocs\khan/wp-content/uploads\simply-static\aa9db410a46e8e28986b34f3c6987359-debug.txt">
+<Files "D:\xamp\htdocs\khan/wp-content/uploads\simply-static\fa8bde13e428d4d7911651ab4d9eb33b-debug.txt">
 require all denied
 require host localhost
 </Files>
